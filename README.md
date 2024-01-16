@@ -44,11 +44,11 @@ Capture information from an IP: City, Region, Postal Code, Country, Continent, C
 
 #### Tabs
 
-![Tabs](tabs.png)
+![Tabs](abas.png)
 
 #### Results
 
-![Information](result.png)
+![Information](resultado.png)
 
 ### Contributing
 
