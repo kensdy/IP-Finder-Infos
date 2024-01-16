@@ -1,6 +1,6 @@
 # IP-Finder-Infos
 
-[Português](README-pt.md) | English
+[Português](README_pt.md) | English
 
 Capture information from an IP: City, Region, Postal Code, Country, Continent, Coordinates, Timezone, Hostname, Provider, and ASN.
 
