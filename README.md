@@ -29,7 +29,7 @@ Capture information from an IP: City, Region, Postal Code, Country, Continent, C
 4. Run the main script:
 
     ```bash
-    python main_en.py
+    python main.py
     ```
     
 ### Features
