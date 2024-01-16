@@ -31,3 +31,19 @@ Capture a partir de um IP: Cidade, Região, Código Postal, País, Continente, C
     ```bash
     python main_pt.py
     ```
+    
+### Funcionalidades
+
+- **Abas:**
+  - **Inicio:** Insira o endereço IP no campo de entrada e clique no botão "Capturar informações" para obter detalhes.
+  - **Sobre:** Fornece informações sobre o programa e créditos ao site de onde as informações são extraídas.
+  - **Informações:** Oferece detalhes sobre o criador do programa e um link para o repositório no GitHub.
+  - **Logs:** Exibe os logs do programa, incluindo informações sobre solicitações bem-sucedidas ou erros.
+
+### Contribuindo
+
+Se você quiser contribuir para o projeto, sinta-se à vontade para criar pull requests ou abrir issues.
+
+### Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
