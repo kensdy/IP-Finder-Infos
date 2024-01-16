@@ -39,6 +39,16 @@ Capture a partir de um IP: Cidade, Região, Código Postal, País, Continente, C
   - **Sobre:** Fornece informações sobre o programa e créditos ao site de onde as informações são extraídas.
   - **Informações:** Oferece detalhes sobre o criador do programa e um link para o repositório no GitHub.
   - **Logs:** Exibe os logs do programa, incluindo informações sobre solicitações bem-sucedidas ou erros.
+ 
+### Capturas de Tela
+
+#### Abas
+
+![Guias](abas.png)
+
+#### Resultados
+
+![Informações](resultado.png)
 
 ### Contribuindo
 
